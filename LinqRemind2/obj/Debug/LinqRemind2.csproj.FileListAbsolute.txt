@@ -1,0 +1,6 @@
+c:\users\kuma\documents\visual studio 2015\Projects\LinqRemind2\LinqRemind2\bin\Debug\LinqRemind2.exe.config
+c:\users\kuma\documents\visual studio 2015\Projects\LinqRemind2\LinqRemind2\bin\Debug\LinqRemind2.exe
+c:\users\kuma\documents\visual studio 2015\Projects\LinqRemind2\LinqRemind2\bin\Debug\LinqRemind2.pdb
+c:\users\kuma\documents\visual studio 2015\Projects\LinqRemind2\LinqRemind2\obj\Debug\LinqRemind2.csprojResolveAssemblyReference.cache
+c:\users\kuma\documents\visual studio 2015\Projects\LinqRemind2\LinqRemind2\obj\Debug\LinqRemind2.exe
+c:\users\kuma\documents\visual studio 2015\Projects\LinqRemind2\LinqRemind2\obj\Debug\LinqRemind2.pdb
